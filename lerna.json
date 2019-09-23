@@ -2,22 +2,5 @@
   "packages": [
     "packages/*"
   ],
-  "changelog": {
-    "labels": {
-      "feat": "新功能",
-      "refactor": "重构",
-      "fix": "修补bug",
-      "enhancement": ":nail_care: Enhancement",
-      "docs": ":memo: 文档",
-      "style": "格式",
-      "test": "增加测试",
-      "chore": "构建过程或辅助工具的变动",
-      "scope": "影响范围",
-      "subject": "对改变的正常描述，最好以动词开头语（尽量详细，必填）",
-      "body": "详细描述",
-      "footer": "修改不兼容变动以及关闭 Issue时"
-    },
-    "cacheDir": ".changelog"
-  },
   "version": "independent"
 }
