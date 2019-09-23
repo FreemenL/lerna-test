@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna-test-one": "^0.0.4"
+    "lerna-test-one": "^0.0.5"
   }
 }
