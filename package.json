@@ -2,10 +2,16 @@
   "name": "root",
   "private": true,
   "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2",
     "lerna": "^3.14.1"
   },
   "scripts": {
     "publish": "lerna publish",
-    "bootstrap":"lerna bootstrap"
+    "bootstrap": "lerna bootstrap"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
