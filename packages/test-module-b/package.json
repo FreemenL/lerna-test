@@ -1,6 +1,6 @@
 {
   "name": "test-module-b",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "lerna-test-one": "^0.0.8"
+    "lerna-test-one": "^0.0.9"
   }
 }
