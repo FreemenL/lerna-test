@@ -1,0 +1,6 @@
+45 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+46 error Error: Command failed: git tag test-module-b@1.0.0 -m test-module-b@1.0.0
+46 error fatal: tag 'test-module-b@1.0.0' already exists
+46 error
+46 error     at makeError (/Users/jiayali/git/nvm/versions/node/v10.16.0/lib/node_modules/lerna/node_modules/_execa@1.0.0@execa/index.js:174:9)
+46 error     at Promise.all.then.arr (/Users/jiayali/git/nvm/versions/node/v10.16.0/lib/node_modules/lerna/node_modules/_execa@1.0.0@execa/index.js:278:16)
