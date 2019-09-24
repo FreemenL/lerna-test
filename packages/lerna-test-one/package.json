@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "lodash": "^4.27.1",
     "moment": "^2.24.0",
     "react": "^16.9.0",
     "test-module-b": "^1.0.1"
