@@ -3,7 +3,9 @@
   "private": true,
   "devDependencies": {
     "cz-conventional-changelog": "^3.0.2",
-    "lerna": "^3.14.1"
+    "husky": "^3.0.5",
+    "lerna": "^3.14.1",
+    "validate-commit-msg": "^2.14.0"
   },
   "scripts": {
     "publish": "lerna publish",
