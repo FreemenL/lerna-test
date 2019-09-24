@@ -1,6 +1,11 @@
 #  (2019-09-24)
 
 
+### Bug Fixes
+
+* 修复 bug ([a5f7257](https://github.com/FreemenL/lerna-test/commit/a5f7257))
+
+
 ### Features
 
 * **changelog.md:** 测试 ([84e984d](https://github.com/FreemenL/lerna-test/commit/84e984d))
