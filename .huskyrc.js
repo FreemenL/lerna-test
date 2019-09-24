@@ -1,7 +1,7 @@
 const tasks = arr => arr.join(' && ')
 
 module.exports = {
-  hooks:{
+  hooks: {
     "commit-msg": "validate-commit-msg",
     "post-commit": tasks([
       'echo generator changelog',
