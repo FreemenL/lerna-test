@@ -14,6 +14,7 @@
 * english test ([68af25d](https://github.com/FreemenL/lerna-test/commit/68af25d))
 * 再次测试 ([06c34ce](https://github.com/FreemenL/lerna-test/commit/06c34ce))
 * 新建文件 ([737c701](https://github.com/FreemenL/lerna-test/commit/737c701))
+* 添加测试 ([10d9b02](https://github.com/FreemenL/lerna-test/commit/10d9b02))
 
 
 
