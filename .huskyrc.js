@@ -1,6 +1,6 @@
 const tasks = arr => arr.join(' && ')
 module.exports = {
-  'hooks': {
+  hooks: {
     'pre-commit': tasks([
       'echo will commit',
       'echo will commit2'
