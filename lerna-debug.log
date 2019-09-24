@@ -1,4 +1,4 @@
-41 error Error: Command failed: git commit -F /private/var/folders/v2/s78hlqh153l5s5mvrbx1pj_40000gn/T/6bf87ca9-5c3f-484e-8486-0a11eef1f4dc/lerna-commit.txt
+41 error Error: Command failed: git commit -F /private/var/folders/v2/s78hlqh153l5s5mvrbx1pj_40000gn/T/7b371319-3853-448d-8079-c4109ef52ce9/lerna-commit.txt
 41 error husky > commit-msg (node v10.16.0)
 41 error INVALID COMMIT MSG: does not match "<type>(<scope>): <subject>" !
 41 error Publish

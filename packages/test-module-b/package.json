@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "lerna-test-one": "^0.0.6"
+    "lerna-test-one": "^0.0.7"
   }
 }
